@@ -18,5 +18,8 @@
   "homepage": "https://github.com/BernardoGandolpho/Prova-S206#readme",
   "dependencies": {
     "cypress": "^12.0.1"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.2.3"
   }
 }
