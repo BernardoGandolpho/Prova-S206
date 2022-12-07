@@ -1,0 +1,22 @@
+{
+  "name": "prova-s206",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernardoGandolpho/Prova-S206.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BernardoGandolpho/Prova-S206/issues"
+  },
+  "homepage": "https://github.com/BernardoGandolpho/Prova-S206#readme",
+  "dependencies": {
+    "cypress": "^12.0.1"
+  }
+}
